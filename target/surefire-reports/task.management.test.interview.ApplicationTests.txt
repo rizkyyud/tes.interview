@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: task.management.test.interview.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.08 s -- in task.management.test.interview.ApplicationTests
